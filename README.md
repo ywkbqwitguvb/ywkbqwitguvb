@@ -1,8 +1,9 @@
 - 👋 Hi, I’m boluwatife george
-- 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a frontend developer
+-    langaage and Tools: HTML, CSS, REACT.JS
+- 🌱 I’m currently on javascript (react.js)
+- 💞️ I’m looking to collaborate with Web Developers
+- 📫 Ask me about anything tech bolufatoye@gmail.com
 
 <!---
 ywkbqwitguvb/ywkbqwitguvb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
