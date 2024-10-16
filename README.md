@@ -1,5 +1,5 @@
 - 👋 Hi, I’m boluwatife george
-- 👀 I’m a frontend developer
+- 👀 I’m a frontend developer and full stack dev
 -    langaage and Tools: HTML, CSS, REACT.JS
 - 🌱 I’m currently on javascript (react.js)
 - 💞️ I’m looking to collaborate with Web Developers
