@@ -3,7 +3,7 @@
 -    langaage and Tools: HTML, CSS, REACT.JS
 - 🌱 I’m currently on javascript (react.js)
 - 💞️ I’m looking to collaborate with Web Developers
-- 📫 Ask me about anything tech bolufatoye@gmail.com
+- 📫 Ask me about anything tech georgeshoes31@gmail.com
 
 <!---
 ywkbqwitguvb/ywkbqwitguvb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
